@@ -1,0 +1,1 @@
+const sum = nums => { return nums? nums.reduce((acc, e) => acc+e, 0) : 0 };
