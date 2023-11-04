@@ -1,0 +1,1 @@
+const areYouPlayingBanjo = name => { return /^[rR]/.test(name)? `${name} plays banjo` : `${name} does not play banjo` }
