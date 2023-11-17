@@ -1,0 +1,1 @@
+const inArray = (a1, a2) => a1.filter(str1 => a2.some(str2 => str2.includes(str1))).sort();
