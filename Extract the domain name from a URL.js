@@ -1,0 +1,1 @@
+const domainName = url => url.match(/(?:http[s]?:\/\/)?(?:w{3}\.)?([^\.]+)/i)[1];
