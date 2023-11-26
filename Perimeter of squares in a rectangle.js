@@ -5,4 +5,4 @@ function perimeter(n) {
     fb[i] = fb[i-2] + fb[i-1]
   }
   return 4* fb.reduce((acc, e) => acc+e)
-}
+}   
