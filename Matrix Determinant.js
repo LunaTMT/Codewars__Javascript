@@ -19,7 +19,6 @@ function getSubMatrix(matrix, excludeRow, excludeCol) {
 }
 
 
-
 determinant(m5 = [[2,4,2],
                   [3,1,1],
                   [1,2,0]])
